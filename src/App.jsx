@@ -6,11 +6,11 @@ import Footer from './components/footer/Footer'
 export default function App() {
   return (
     <div>
-      <Navbar />
-      <div className="h-screen">
-      <RemoveBackground />
+      <Navbar/>
+      <div className=" h-screen">
+      <RemoveBackground/>
       </div>
-      <Footer />
+      <Footer/>
     </div>
   )
 }
